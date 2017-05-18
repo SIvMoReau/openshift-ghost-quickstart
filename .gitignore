@@ -1,2 +1,5 @@
 content/data
 content/images
+.openshift/
+node_modules/ghost/core
+node_modules/ghost/node_modules
